@@ -1,3 +1,3 @@
-print("hello world, created this pyhthon script on git "
+print("hello world, created this pyhthon script on git ")
 
 
